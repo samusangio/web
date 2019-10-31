@@ -79,7 +79,7 @@
     "mmmagic": "^0.5.2",
     "mocha": "^5.0.1",
     "mongojs": "2.4.0",
-    "mongoose": "4.11.4",
+    "mongoose": "5.7.5",
     "multer": "git+https://github.com/overleaf/multer.git",
     "node-html-encoder": "0.0.2",
     "nodemailer": "2.1.0",
